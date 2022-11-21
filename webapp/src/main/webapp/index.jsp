@@ -4,6 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
+    
     <label for="Name"><b>Full name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
@@ -12,8 +13,8 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter What's your email?</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <label for="Name"><b>Enter What's your email?</b></label>
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
@@ -31,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Siyabonga, Ufunde Kahle! </h1>
+   <h1> Siyabonga, Ufunde Kahle! DevEngineer Miss Nottie </h1>
 
   
 </form>
