@@ -5,7 +5,7 @@
     <hr>
      
     
-    <label for="Name"><b>Full name</b></label>
+    <label for="Name"><b>Igama lakho ngubani?</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
